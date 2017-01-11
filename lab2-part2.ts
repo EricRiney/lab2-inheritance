@@ -1,4 +1,4 @@
-class partOne {
+class Savings {
     initialBalance: Number
     ownerName: String;
     constructor() {
